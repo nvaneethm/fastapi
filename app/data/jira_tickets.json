@@ -1,0 +1,14 @@
+[
+    {
+        "id": "JIRA-123",
+        "summary": "Fix login issue",
+        "description": "Users can't log in after the update.",
+        "status": "Open"
+    },
+    {
+        "id": "JIRA-124",
+        "summary": "Error on checkout",
+        "description": "Checkout process fails intermittently.",
+        "status": "In Progress"
+    }
+]
